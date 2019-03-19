@@ -1,0 +1,6 @@
+/*This lesson showed the existence of the Body element by setting it's background color.*/
+<style>
+  body {
+    background-color: black;
+  }
+</style>
