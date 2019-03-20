@@ -1,0 +1,6 @@
+/*This lesson showed another method for color declarations using 3 numbers for an RGB value.*/
+<style>
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+</style>
