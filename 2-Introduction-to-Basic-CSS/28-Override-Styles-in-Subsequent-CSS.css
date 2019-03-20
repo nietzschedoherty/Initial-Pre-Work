@@ -1,0 +1,16 @@
+/*This lesson showed how the second declaration in the style section overrides the first when both classes are assigned in the same element.*/
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+
+ .blue-text {
+    color: blue;
+ }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>
