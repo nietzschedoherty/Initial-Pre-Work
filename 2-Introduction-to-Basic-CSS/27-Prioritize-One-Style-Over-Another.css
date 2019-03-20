@@ -1,0 +1,12 @@
+/*This lesson showed how CSS prioritized one style over another based on where the commands were located.*/
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+    .pink-text {
+      color: pink;
+    }
+</style>
+<h1 class="pink-text">Hello World!</h1>
