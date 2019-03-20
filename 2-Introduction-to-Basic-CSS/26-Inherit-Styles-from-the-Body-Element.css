@@ -1,0 +1,11 @@
+/*This lesson showed how the style settings in the Body element will be inherited for the page.*/
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+
+<h1>Hello World</h1>
