@@ -1,0 +1,14 @@
+// This lesson showed how to create and recall a function.  I now think I've been using the term 'function' incorrectly with JS so far.
+// Example
+function ourReusableFunction() {
+  console.log("Heyya, World");
+}
+
+ourReusableFunction();
+
+// Only change code below this line
+function reusableFunction() {
+  console.log("Hi World");
+}
+
+reusableFunction();
