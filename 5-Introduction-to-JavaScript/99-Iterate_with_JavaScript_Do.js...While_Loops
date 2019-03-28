@@ -1,0 +1,10 @@
+// This lesson illustrated how to use a Do...While loop, and how it can be advantageous to a standard While loop in that it will run through the iteration at least once.
+// Setup
+var myArray = [];
+var i = 10;
+
+// Only change code below this line.
+do {
+ myArray.push(i);
+ i++;
+ } while (i < 5);
